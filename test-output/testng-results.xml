@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-02T08:53:34 IST" name="Default suite" finished-at="2023-07-02T08:55:23 IST" duration-ms="109003">
+    <groups>
+    </groups>
+    <test started-at="2023-07-02T08:53:34 IST" name="Default test" finished-at="2023-07-02T08:55:23 IST" duration-ms="109003">
+      <class name="jobfest2.jobfesttest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:jobfest2.jobfesttest@53ce1329]" started-at="2023-07-02T08:53:34 IST" name="setup" finished-at="2023-07-02T08:54:25 IST" duration-ms="51045" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="jobfestTest()[pri:0, instance:jobfest2.jobfesttest@53ce1329]" started-at="2023-07-02T08:54:25 IST" name="jobfestTest" finished-at="2023-07-02T08:55:23 IST" duration-ms="57863" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jobfestTest -->
+      </class> <!-- jobfest2.jobfesttest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
